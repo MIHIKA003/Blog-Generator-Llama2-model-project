@@ -1,3 +1,4 @@
+![Screenshot 2024-12-27 134415](https://github.com/user-attachments/assets/8d3bcb2c-0cc0-4d1f-84fe-8a67bc5ac8f1)
 # Blog-Generator-Llama2-model-project
 A Streamlit-powered blog generator using a local Llama 2-based LLM for customizable blog writing. Enter topics, select audience types, and generate content with ease!
 
