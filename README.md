@@ -30,4 +30,14 @@ Whether you're creating content for academic purposes, casual readers, or techni
 
 ---
 
+### Prerequisites
+1. Python 3.11 or 3.10 (recommended).
+2. Dependencies:
+   - Streamlit
+   - LangChain
+   - CTransformers
+3. Llama 2 7B quantized model (`ggmlv3.q8_0.bin`).
+
+---
+
   
